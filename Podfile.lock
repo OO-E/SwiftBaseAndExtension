@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (7.1.2)
+  - ReachabilitySwift (5.0.0)
+  - SwiftGen (6.5.1)
+
+DEPENDENCIES:
+  - Kingfisher
+  - ReachabilitySwift
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - ReachabilitySwift
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  Kingfisher: 44ed6a8504763f27bab46163adfac83f5deb240c
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SwiftGen: a6d22010845f08fe18fbdf3a07a8e380fd22e0ea
+
+PODFILE CHECKSUM: 736a58a3377a289d3967e594095bf3e29baa2125
+
+COCOAPODS: 1.11.2

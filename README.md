@@ -1,7 +1,3 @@
-# SwiftBaseAndExtensions
+Run Localization Script
 
-
-- Write Readme file usage for classes
-- Add SPM file
-- Add new extension for String, Double, Image, Int vs
-- Update BaseController
+swift LaurineGenerator.swift  -i Localizable.strings -c -o Localizations.swift

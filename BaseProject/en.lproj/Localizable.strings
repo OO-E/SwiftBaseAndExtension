@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  BaseProject
+
+  Created by Özgün Ergen on 30.01.2022.
+  
+*/
+"Hello.surname" = "hello";
+"Hello.name" = "hello2";
+
